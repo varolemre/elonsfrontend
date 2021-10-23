@@ -13,7 +13,7 @@ const GlobalStyles = createGlobalStyle`
   }
   .spacer-double {
     width: 100%;
-    height: 90px !important;
+    height: 95px !important;
     display: block;
     clear: both;
 }
