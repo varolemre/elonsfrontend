@@ -3016,8 +3016,6 @@ i.font60 {
     width: 100%;
 }
 .littlep{
-  margin-top: -14px;
-  padding-bottom: 20px;
   font-size: 14px;
   vertical-align: middle;
   display:inline;
@@ -3027,10 +3025,14 @@ i.font60 {
   vertical-align: middle;
   padding-top: 12px;
   color: #000;
-  font-size: 20px;
+  font-size: 25px;
   display: inline-block;
   clear: left;
   position: absolute;
+  display: flex;
+  list-style: none;
+  margin-bottom: 1rem;
+  align-items: center
 }
 .cuthome2{
   text-align: center;
